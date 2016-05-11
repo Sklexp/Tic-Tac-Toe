@@ -1,0 +1,17 @@
+﻿Сборка начата 11.05.2016 23:45:05.
+     1>Проект "c:\documents\visual studio 2013\Projects\Test24\Test24\Test24.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         F:\Visual Studia13\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       Link:
+         F:\Visual Studia13\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\documents\visual studio 2013\Projects\Test24\Debug\Test24.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Test24.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\documents\visual studio 2013\Projects\Test24\Debug\Test24.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\TTree.obj
+         Debug\TTreeLink.obj
+         Debug\TZeroOne3.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Test24.vcxproj -> c:\documents\visual studio 2013\Projects\Test24\Debug\Test24.exe
+     1>Сборка проекта "c:\documents\visual studio 2013\Projects\Test24\Test24\Test24.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.11
